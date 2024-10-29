@@ -1,0 +1,7 @@
+Daftar menu :
+1. Menu makanan
+    - nasi goreng
+    - ayam goreng 
+    - sabal cumi 
+    - ayam bakar
+
