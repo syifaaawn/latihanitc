@@ -5,3 +5,8 @@ Daftar menu :
     - sabal cumi 
     - ayam bakar
 
+2. Minuman 
+    - teh tawar panas
+    - teh manis dingin
+    - es jeruk
+
